@@ -1,6 +1,6 @@
 # Lab8B2
 # Michael Camp
-# Creates a window that displays the proper  for a given amount of
+# Creates a window that displays the remainder for a given fraction of integers
 from breezypythongui import EasyFrame
 
 
